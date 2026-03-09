@@ -294,11 +294,6 @@ considerations for optimal performance would be:
 - Use `KernelAbstractions.jl` for vendor-agnostic GPU code (works with CUDA,
   ROCm, oneAPI, and Metal).
 
----
 
-## AI Usage Statement
 
-AI (Claude) was used as a coding assistant to help scaffold the benchmarking
-infrastructure, write boilerplate code, and draft the analysis text. The
-parallelisation strategy, performance analysis, and GPU discussion reflect
-the candidate's own understanding.
+
